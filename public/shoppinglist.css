@@ -1,0 +1,19 @@
+.grocerylist ul > li:nth-child(odd){
+    background: cadetblue;
+}
+.grocerylist ul > li:nth-child(even){
+    background:lightblue;
+}
+.shoppingcart ul > li:nth-child(odd){
+    background:lightcoral;
+}
+.shoppingcart ul > li:nth-child(even){
+    background: lightsalmon
+}
+.list-item{
+    color:white;
+    font-weight: 900;
+    padding:10px;.
+}
+
+
